@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 30 18:08:31 2020
-
-@author: is104
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Mar 30 16:57:44 2020
 
 @author: ivan.sheng
